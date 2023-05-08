@@ -10,4 +10,4 @@ If you are unfamiliar with how to run HTML or CSS :
 *you can also directly fork my repo !
 
 Or You can use it Directly by this link:(hosted link)
-https://ujjawaltyagii.github.io/Valentine-Fun/
+https://Diasgrace.github.io/Bitteeeee/
